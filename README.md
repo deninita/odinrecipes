@@ -1,1 +1,2 @@
 # odinrecipes
+This project is a simple HTML recipe Website created following the Foundations Course by The Odin Project. Once it has been completed I will have demonstrated that I have learned the basics of the HTML language.
