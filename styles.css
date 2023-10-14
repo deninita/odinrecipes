@@ -1,0 +1,33 @@
+body {
+    font-family: monospace;
+    text-align: center;
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 26px;
+}
+
+img {
+    width: 540px;
+    height: 350px;
+    display: block;
+    margin: auto;
+    
+}
+
+ul {
+    font-weight: 600;
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+    list-style-type:none;
+    margin: 15px;
+    padding: 20px;
+}
+
+a {
+    color: saddlebrown;
+}
