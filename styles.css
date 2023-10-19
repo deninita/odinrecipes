@@ -1,3 +1,8 @@
+* {
+    margin: 40px;
+    
+}
+
 body {
     font-family: monospace;
     text-align: center;
@@ -8,6 +13,11 @@ h1 {
     color: black;
     text-align: center;
     font-size: 26px;
+    margin: 20px;
+    padding: 20px;
+    background: #ff999950;
+    border: 20px solid #cc000050;
+
 }
 
 img {
@@ -15,7 +25,10 @@ img {
     height: 350px;
     display: block;
     margin: auto;
-    
+    padding: 20px;
+    background: #ff999950;
+    border: 20px solid #cc000050;
+
 }
 
 ul {
@@ -24,10 +37,14 @@ ul {
     color: brown;
     text-align: center;
     list-style-type:none;
-    margin: 15px;
+    margin: 40px;
     padding: 20px;
+    background: #ff999950;
+    border: 20px solid #cc000050;
+    
 }
 
 a {
     color: saddlebrown;
 }
+
