@@ -1,0 +1,33 @@
+body {
+    box-sizing: border-box;
+    display: block;
+    font-family: monospace;
+    text-align: center;
+    margin: 5% 15% 20%;
+    padding: 20px 40px;
+    background: #ff999950;
+    border: 20px solid #cc000050;
+
+}
+
+div {
+    padding: 0px;
+    border: 10px solid #80000050;
+    margin: 10px 10px 10px;
+}
+
+
+div .ingredients {
+    border: 10px solid #80000050;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    display: block;
+}
